@@ -29,14 +29,14 @@ You need [Node.js](https://nodejs.org) version 10 or higher, but if you want to 
 ```bash
 git clone https://github.com/jhonywalkeer/typescript-node.git
 
-$ cd first-api
+$ cd typescript-node-mongo
 $ npm install or yarn install
 ```
 
 Configure the `.env.example` file correctly and then run our api locally by running the following command:
 
 ```bash
-$ cd typescript-node
+$ cd typescript-node-mongo
 $ npm dev or yarn dev
 ```
 
